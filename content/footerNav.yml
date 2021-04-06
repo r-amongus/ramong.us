@@ -1,0 +1,31 @@
+community:
+  title: Community
+
+docs:
+  title: Docs
+
+more:
+  title: More
+  items:
+    - title: Tutorial
+      to: /tutorial/tutorial.html
+    - title: Blog
+      to: /blog
+    - title: Acknowledgements
+      to: /acknowledgements.html
+
+channels:
+  title: Channels
+  items:
+    - title: Reddit
+      to: https://reddit.com/r/amongus
+      external: true
+    - title: GitHub
+      to: https://github.com/amongussubreddit
+      external: true
+    - title: Discord
+      to: https://discord.gg/amongusreddit
+      external: true
+    - title: Twitter
+      to: https://twitter.com/AU_Reddit
+      external: true

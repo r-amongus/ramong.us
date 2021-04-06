@@ -1,0 +1,7 @@
+{
+  "github": { "silent": true },
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/tutorial", "destination": "/tutorial/tutorial.html", "permanent": false },
+  ]
+}

@@ -1,0 +1,3 @@
+# Ensure English site redirects to apex domain. While not used directly by us, may be linked elsewhere.
+http://en.ramongus/* https://ramong.us/:splat 301!
+https://en.ramong.us/* https://ramong.us/:splat 301!

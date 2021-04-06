@@ -1,0 +1,37 @@
+- title: Introduction
+  items:
+    - id: getting-started
+      title: Getting Started
+    - id: release-channels
+      title: Release Channels
+- title: Main Concepts
+  isOrdered: true
+  items:
+    - id: lobbies
+      title: Lobbies
+- title: Advanced Guides
+  items:
+    - id: impostor-strategies
+      title: Impostor Strategies
+- title: Contributing
+  items:
+    - id: how-to-contribute
+      title: How to Contribute
+    - id: codebase-overview
+      title: Codebase Overview
+- title: Reference
+  items:
+    - id: glossary
+      title: Glossary
+- title: FAQ
+  items:
+    - id: faq-general
+      title: General Information
+    - id: faq-gameplay
+      title: Gameplay Information
+    - id: faq-technical
+      title: Technical Information
+    - id: faq-lfg
+      title: Looking for Group Information
+    - id: faq-miscellaneous
+      title: Miscellaneous Information
